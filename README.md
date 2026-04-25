@@ -4,7 +4,7 @@ Building real-world projects and focusing on clean, maintainable code.
 
 current_status = {
     "role": "Junior Full-Stack Developer", </b>
-    "school": "Code Barcelona (MigraCode)",
+    "school": "MigraCode Barcelona",
     "focus": ["frontend", "backend", "real-world projects"],
 }
 <p align="center">
