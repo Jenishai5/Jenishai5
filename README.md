@@ -58,7 +58,7 @@ That mix helps me think not just about code, but about **people using the produc
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [your link here]
+- LinkedIn: www.linkedin.com/in/jenishai
 
 ---
 
