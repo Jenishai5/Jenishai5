@@ -1,15 +1,11 @@
 # Hi, I'm Jeni 👋
 
-I'm a developer building practical SaaS products that solve real problems.  
-I focus on simplicity, usability, and shipping things that actually work.
+-----
 
 ---
 
 ## 🚀 Current Work
 
-- 🧠 Building **Hera** — an inventory management system (SaaS)
-- ⚙️ Improving product thinking, UX, and real-world usability
-- 💻 Writing code and turning ideas into working tools
 
 ---
 
@@ -45,7 +41,10 @@ That mix helps me think not just about code, but about **people using the produc
 ## 📸 Project Demo
 
 <!-- Add your GIF here -->
-<img src="./assets/hera-demo.gif" width="700"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/abc123/[giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHB4dGUxNjZxZHpqYXZxZ2U0a2dhNTR1cXg3dTMxZHAxNm1xb2duMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LlqCSOe3zi65vfErwS/giphy.gif)" width="600"/>
+</p>
+
 
 ---
 
