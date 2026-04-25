@@ -7,7 +7,7 @@ current_status = {
     "school": "Code Barcelona (MigraCode)",
     "focus": ["frontend", "backend", "real-world projects"],
 }
-<p align="right">
+<p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHB4dGUxNjZxZHpqYXZxZ2U0a2dhNTR1cXg3dTMxZHAxNm1xb2duMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LlqCSOe3zi65vfErwS/giphy.gif" width="300"/>
 </p>
 # Contact
