@@ -1,4 +1,3 @@
-# Jenishai5
 # Hi, I'm Jeni 👋
 
 I'm a developer building practical SaaS products that solve real problems.  
