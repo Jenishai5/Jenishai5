@@ -1,68 +1,84 @@
 # Hi, I'm Jeni 👋
 
------
+"""
+Developer building practical SaaS products.
+Focused on simplicity, usability, and real-world impact.
+"""
 
----
+# ---------------------------
+# 🚀 Current Work
+# ---------------------------
 
-## 🚀 Current Work
+current_work = {
+    "project": "Hera (inventory management SaaS)",
+    "focus": ["product thinking", "UX", "building real tools"],
+}
 
+# ---------------------------
+# 💡 About Me
+# ---------------------------
 
----
+about_me = {
+    "role": "Developer (evenings)",
+    "day_job": "Operations / Admin",
+    "background": ["Art", "Teaching"],
+    "mindset": "I think about users as much as code",
+}
 
-## 💡 About Me
+# ---------------------------
+# 🛠 Tech Stack
+# ---------------------------
 
-- 👨‍💻 Developer (evenings)
-- 🏢 Working in operations/admin during the day
-- 🎨 Background in art & teaching
+tech_stack = [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Node.js",
+    "REST APIs",
+    "SaaS development",
+]
 
-That mix helps me think not just about code, but about **people using the product**.
+# ---------------------------
+# 🎯 Focus
+# ---------------------------
 
----
+focus = [
+    "Build simple & useful products",
+    "Improve every day",
+    "Ship fast",
+    "Clean UX > complexity",
+]
 
-## 🛠 Tech Stack
+# ---------------------------
+# 📸 Project Demo
+# ---------------------------
 
-- JavaScript / TypeScript  
-- React  
-- Node.js  
-- REST APIs  
-- SaaS / product-oriented development  
-
----
-
-## 🎯 Focus
-
-- Building useful, simple products  
-- Improving every day as a developer  
-- Shipping > overthinking  
-- Clean UX over complexity  
-
----
-
-## 📸 Project Demo
-
-<!-- Add your GIF here -->
+demo = """
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHB4dGUxNjZxZHpqYXZxZ2U0a2dhNTR1cXg3dTMxZHAxNm1xb2duMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LlqCSOe3zi65vfErwS/giphy.gif" width="600"/>
 </p>
+"""
 
+# ---------------------------
+# 📈 Learning
+# ---------------------------
 
----
+learning = [
+    "System design",
+    "Scalable SaaS architecture",
+    "UX that saves time",
+]
 
-## 📈 What I'm Learning
+# ---------------------------
+# 🤝 Contact
+# ---------------------------
 
-- Better system design  
-- Scalable SaaS architecture  
-- UX that actually saves time  
+contact = {
+    "linkedin": "www.linkedin.com/in/jenishai",
+}
 
----
+# ---------------------------
+# ⚡ Fun Fact
+# ---------------------------
 
-## 🤝 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/jenishai
-
----
-
-## ⚡ Fun Fact
-
-I used to teach art — now I build products.  
-Still obsessed with clarity, just in a different form.
+fun_fact = "Ex-art teacher → now building products. Still obsessed with clarity."
