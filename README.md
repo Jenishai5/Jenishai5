@@ -1,5 +1,5 @@
 # Hi, I'm Jeni 👋
-Full-Stack Developer in training at MigraCode.
+Full-Stack Developer.
 Building real-world projects and focusing on clean, maintainable code.
 
 current_status = {
