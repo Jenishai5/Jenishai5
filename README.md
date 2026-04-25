@@ -1,17 +1,18 @@
 # Hi, I'm Jeni 👋
 
 """
-Developer building practical SaaS products.
-Focused on simplicity, usability, and real-world impact.
+Junior Full-Stack Developer in training at Code Barcelona.
+Building real-world projects and focusing on clean, maintainable code.
 """
 
 # ---------------------------
-# 🚀 Current Work
+# 🚀 Current Status
 # ---------------------------
 
-current_work = {
-    "project": "Hera (inventory management SaaS)",
-    "focus": ["product thinking", "UX", "building real tools"],
+current_status = {
+    "role": "Junior Full-Stack Developer (in training)",
+    "school": "Code Barcelona (MigraCode)",
+    "focus": ["frontend", "backend", "real-world projects"],
 }
 
 # ---------------------------
@@ -19,34 +20,52 @@ current_work = {
 # ---------------------------
 
 about_me = {
-    "role": "Developer (evenings)",
-    "day_job": "Operations / Admin",
-    "background": ["Art", "Teaching"],
-    "mindset": "I think about users as much as code",
+    "background": ["Design", "Client-facing roles"],
+    "strengths": [
+        "Problem-solving",
+        "Attention to detail",
+        "Clear communication",
+    ],
+    "approach": "I build with both users and code quality in mind",
 }
 
 # ---------------------------
 # 🛠 Tech Stack
 # ---------------------------
 
-tech_stack = [
-    "JavaScript",
-    "TypeScript",
-    "React",
-    "Node.js",
-    "REST APIs",
-    "SaaS development",
-]
+tech_stack = {
+    "languages": [
+        "HTML5",
+        "CSS3 (Flexbox, Grid)",
+        "JavaScript (ES6+)",
+        "TypeScript",
+        "Python",
+    ],
+    "frontend": [
+        "React (Hooks, Context API)",
+    ],
+    "backend": [
+        "Node.js (currently learning)",
+        "Firebase",
+    ],
+    "tools": [
+        "Git",
+        "GitHub",
+        "Figma",
+        "Adobe XD",
+        "Webpack",
+    ],
+}
 
 # ---------------------------
 # 🎯 Focus
 # ---------------------------
 
 focus = [
-    "Build simple & useful products",
-    "Improve every day",
-    "Ship fast",
-    "Clean UX > complexity",
+    "Writing clean, tested, maintainable code",
+    "Growing as a full-stack developer",
+    "Building practical, real-world applications",
+    "Improving both frontend and backend skills",
 ]
 
 # ---------------------------
@@ -60,13 +79,14 @@ demo = """
 """
 
 # ---------------------------
-# 📈 Learning
+# 📈 Learning Path
 # ---------------------------
 
 learning = [
-    "System design",
-    "Scalable SaaS architecture",
-    "UX that saves time",
+    "Node.js & backend architecture",
+    "Scalable applications",
+    "Testing and code quality",
+    "Full-stack project development",
 ]
 
 # ---------------------------
@@ -74,11 +94,11 @@ learning = [
 # ---------------------------
 
 contact = {
-    "linkedin": "www.linkedin.com/in/jenishai",
+    "linkedin": "https://www.linkedin.com/in/jenishai",
 }
 
 # ---------------------------
 # ⚡ Fun Fact
 # ---------------------------
 
-fun_fact = "Ex-art teacher → now building products. Still obsessed with clarity."
+fun_fact = "From design and people-facing roles to code — still focused on clarity and user experience."
