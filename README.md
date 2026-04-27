@@ -5,7 +5,7 @@ Full-Stack Developer.
 Building real-world projects and focusing on clean, maintainable code.
 
 current_status = {
-    "role": "Junior Full-Stack Developer", </b>
+    "role": "Junior Full-Stack Developer", </br>
     "school": "MigraCode Barcelona",
     "focus": ["frontend", "backend", "real-world projects"],
 }
